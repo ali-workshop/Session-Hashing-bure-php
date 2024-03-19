@@ -55,3 +55,6 @@ if(isset($_SESSION["UserId"])){
   header("Location: dashboard.php");
   }
 ?>
+
+<!-- https://medium.com/@patelharsh7458/php-sessions-explained-practical-usage-and-best-practices-b15df9cc7568 -->
+<!-- https://www.phparch.com/2018/01/php-sessions-in-depth/ -->
